@@ -1,4 +1,4 @@
-# Space-Warefare
+# Space-Warfare
 
 ## Summary
 Simulation of the smart spaceships capable of shooting down enemy spaceships within its field of view by predicting their future position. The spaceship also has the ability to dodge and trick enemy spaceships if they detect they are being followed and shot at. The project was implemented using C++ programming language in Unreal Engine 5, and the design includes a self-destruct feature for the spaceship if its health drops below a certain threshold.
